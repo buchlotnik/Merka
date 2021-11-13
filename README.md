@@ -54,3 +54,6 @@
 
 ## Лицензия
 Приложение бесплатное с открытым кодом, но для порядку см. [LICENSE.md](https://github.com/buchlotnik/Merka/blob/main/LICENSE)
+
+## Ссылка
+[Исходники всегда лежат на GitHub](https://github.com/buchlotnik/Merka)
