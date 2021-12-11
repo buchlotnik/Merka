@@ -49,7 +49,7 @@
 - для повышения корректности результатов производится и отбрасывается нулевая итерация обновления, также перед каждым запросом делается секундная задержка
 
 ## Автор
-buchlotnik - обитаю здесь: [github](https://github.com/buchlotnik), [telegram](https://t.me/pbi_pq_from_tank), [muzykin.com](muzykin.com) 
+buchlotnik - обитаю здесь: [github](https://github.com/buchlotnik), [telegram](https://t.me/pbi_pq_from_tank), [muzykin.com](https://muzykin.com) 
 
 
 ## Лицензия
