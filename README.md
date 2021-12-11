@@ -49,8 +49,8 @@
 - для повышения корректности результатов производится и отбрасывается нулевая итерация обновления, также перед каждым запросом делается секундная задержка
 
 ## Автор
-[buchlotnik](https://github.com/buchlotnik)
-личный сайт пока в разработке, так что сорян
+buchlotnik - обитаю здесь: [github](https://github.com/buchlotnik), [telegram](https://t.me/pbi_pq_from_tank), [muzykin.com](muzykin.com) 
+
 
 ## Лицензия
 Приложение бесплатное с открытым кодом, но для порядку см. [LICENSE.md](https://github.com/buchlotnik/Merka/blob/main/LICENSE)
